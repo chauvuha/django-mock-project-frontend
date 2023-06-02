@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The backend of this Django project can be found at: https://github.com/chauvuha/django-mock-project-backend.git 
 
 ## Available Scripts
 
